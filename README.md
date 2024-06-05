@@ -1,8 +1,5 @@
-# Welcome to Eliud Muwowo's GitHub Profile! 👋
+# Welcome to Eliud Muwowo's GitHub Profile!
 
-<img src="https://i.ibb.co/JxD7vbc/Whats-App-G-rsel-2023-07-09-saat-20-52-28-2.jpg" alt="Whats-App-G-rsel-2023-07-09-saat-20-52-28-2" border="0">
-
-[**Data Scientist**] 
 ## About Me
 I'm a passionate data scientist with a diverse skill set and a strong background in analytics, machine learning, and data visualization. With expertise in multiple programming languages and tools, I strive to solve complex problems and derive meaningful insights from data.
 
