@@ -18,6 +18,7 @@ Here are some of my noteworthy projects:
 ## Contact Me
 - LinkedIn: https://www.linkedin.com/in/eliud-muwowo-154180bb/
 - Email: elimuwowojr@gmail.com
+- Portfolio: https://www.datascienceportfol.io/eliudmuwowo
 
 ## Let's Connect!
 Feel free to reach out to discuss collaborations, projects, or anything related to data science! I'm always open to new opportunities and connections.
