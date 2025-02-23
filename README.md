@@ -4,7 +4,8 @@
 I'm a passionate data scientist with a diverse skill set and a strong background in analytics, machine learning, and data visualization. With expertise in multiple programming languages and tools, I strive to solve complex problems and derive meaningful insights from data.
 
 ## Skills
-- **Programming Languages:** R, Python, C, C++, HTML, CSS
+- **Front-end Programming:** HTML, CSS, JavaScript
+- **Programming Languages:** R, Python, C, C++
 - **Statistical Analysis:** SPSS, MATLAB
 - **Data Visualization:** Power BI, Tableau
 - **Databases:** MySQL
