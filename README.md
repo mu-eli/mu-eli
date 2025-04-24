@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eliud Eliud Muwowo</h1>
+<h1 align="center">Hi 👋, I'm Eliud Muwowo</h1>
 <h3 align="center">Turning data into insight and code into experiences — a Türkiye-based data scientist and front-end developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mu-eli&label=Profile%20views&color=0e75b6&style=flat" alt="mu-eli" /> </p>
