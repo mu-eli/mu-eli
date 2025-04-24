@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **talkhub project**
 
-- 🌱 I’m currently expanding my skill set with **Redux, Next.js, Tailwind CSS,** and **React** to build more dynamic and scalable front-end applications.
-
-
+- <p>🌱 I’m currently expanding my skill set with **Redux, Next.js, Tailwind CSS,** and **React** to build more dynamic and scalable front-end applications. </p>
 
 - 👯 I’m looking to collaborate on **an E-commerce Projects**
 
